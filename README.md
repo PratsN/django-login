@@ -1,6 +1,6 @@
 # django-login
 
-User Signup and Login using Django
+User Signup using Django
 
 This is a Django web application that allows users to create an account
 The application also includes an option to see the data of all users
