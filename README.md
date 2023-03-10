@@ -7,8 +7,8 @@ The application also includes an option to see the data of all users
 
 Installation and Setup :
 
-Clone the repository: git clone https://github.com/PratsN/django-login.git
-Run the development server: python manage.py runserver
+1. Clone the repository: git clone https://github.com/PratsN/django-login.git
+2. Run the development server: python manage.py runserver
 
 Usage :
 
