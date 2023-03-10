@@ -18,5 +18,5 @@ It will navigate to register page so there you can fill details like FullName , 
 It will create a new account to user
 3. Click on See data button to see the detauls of all registered user
 
-Credits
+Credits :
 This application was created by Pratiksha Nagawade
